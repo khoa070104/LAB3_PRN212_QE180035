@@ -1,0 +1,14 @@
+E:\Documents\CSharpForBeginner\Lab3\bin\Debug\net8.0\Lab3.exe
+E:\Documents\CSharpForBeginner\Lab3\bin\Debug\net8.0\Lab3.deps.json
+E:\Documents\CSharpForBeginner\Lab3\bin\Debug\net8.0\Lab3.runtimeconfig.json
+E:\Documents\CSharpForBeginner\Lab3\bin\Debug\net8.0\Lab3.dll
+E:\Documents\CSharpForBeginner\Lab3\bin\Debug\net8.0\Lab3.pdb
+E:\Documents\CSharpForBeginner\Lab3\obj\Debug\net8.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\CSharpForBeginner\Lab3\obj\Debug\net8.0\Lab3.AssemblyInfoInputs.cache
+E:\Documents\CSharpForBeginner\Lab3\obj\Debug\net8.0\Lab3.AssemblyInfo.cs
+E:\Documents\CSharpForBeginner\Lab3\obj\Debug\net8.0\Lab3.csproj.CoreCompileInputs.cache
+E:\Documents\CSharpForBeginner\Lab3\obj\Debug\net8.0\Lab3.dll
+E:\Documents\CSharpForBeginner\Lab3\obj\Debug\net8.0\refint\Lab3.dll
+E:\Documents\CSharpForBeginner\Lab3\obj\Debug\net8.0\Lab3.pdb
+E:\Documents\CSharpForBeginner\Lab3\obj\Debug\net8.0\Lab3.genruntimeconfig.cache
+E:\Documents\CSharpForBeginner\Lab3\obj\Debug\net8.0\ref\Lab3.dll
